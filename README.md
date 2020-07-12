@@ -4,7 +4,7 @@ Thr goal of this repository is to provide examples of general optimization (LP, 
 
 ![lp1](https://people.richland.edu/james/lecture/m116/systems/linear.png)
 
-The example is tested using python 3.8. You can run the demo either directly (natively) or use 
+The examples is tested using python 3.8. You can run the demo either directly (natively) or use 
 repo2docker to configure and run in docker.
 
 ---
@@ -18,7 +18,7 @@ $ jupyter notebook
 ```bash
 # Example usage (in docker): 
 $ sudo service docker restart
-$ jupyter-repo2docker https://github.com/AndreasMerentitis/optimization-python-demo.git
+$ jupyter-repo2docker https://github.com/AndreasMerentitis/optimization-python-demo
 ```
 
 ---
