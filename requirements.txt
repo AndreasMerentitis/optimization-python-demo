@@ -24,6 +24,5 @@ qtconsole==4.6.0
 retrying==1.3.3
 scikit-learn==0.22.1
 scipy==1.4.1
-seaborn==0.10.0
 sklearn==0.0
 
